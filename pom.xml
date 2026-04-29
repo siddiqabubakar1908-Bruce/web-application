@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Paramount-Snapshot </name>
+	      <name>Paramount-Snapshot</name>
 	      <url>http://http://16.59.123.118:8081/repository/Paramount-Snapshot/</url>
 	    </snapshotRepository>
 	    

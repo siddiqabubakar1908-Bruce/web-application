@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Paramount-Release</name>
-	      <url>http://18.225.76.163:8081/repository/Paramount-Release/</url>
+	      <name>Netflix-Release</name>
+	      <url>http://http://18.225.76.163:8081/repository/Netflix-Release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Paramount-Snapshot</name>
-	      <url>http://18.225.76.163:8081/repository/Paramount-Snapshot/</url>
+	      <name>Netflix-Snapshot</name>
+	      <url>http://http://18.225.76.163:8081/repository/Netflix-Snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

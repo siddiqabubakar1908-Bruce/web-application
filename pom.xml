@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Paramount-Release</name>
-	      <url>http://16.59.123.118:8081/repository/Paramount-Release/</url>
+	      <url>http://18.225.76.163:8081/repository/Paramount-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Paramount-Snapshot</name>
-	      <url>http://16.59.123.118:8081/repository/Paramount-Snapshot/</url>
+	      <url>http://18.225.76.163:8081/repository/Paramount-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

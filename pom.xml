@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Netflix-Release</name>
-	      <url>http://18.225.76.163:8081/repository/Netflix-Release//</url>
+	      <name>Prime-Release</name>
+	      <url>http://18.191.120.12:8081/repository/Prime-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Netflix-Snapshot</name>
-	      <url>http://18.225.76.163:8081/repository/Netflix-Snapshot//</url>
+	      <name>Prime-Snapshot</name>
+	      <url>http://18.191.120.12:8081/repository/Prime-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

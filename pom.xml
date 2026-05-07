@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Prime-Release</name>
-	      <url>http://18.191.120.12:8081/repository/Prime-Release/</url>
+	      <name>Chase-Release</name>
+	      <url>http://3.137.213.66:8081/repository/Chase-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Prime-Snapshot</name>
-	      <url>http://18.191.120.12:8081/repository/Prime-Snapshot/</url>
+	      <name>Chase-Snapshot</name>
+	      <url>http://3.137.213.66:8081/repository/Chase-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

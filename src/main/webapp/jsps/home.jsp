@@ -110,7 +110,7 @@
     </nav>
 
     <div class="hero">
-        <h2>Empowering Students to Achieve Excellence</h2>
+        <h2>Empowering all Students to Achieve Excellence</h2>
     </div>
 
     <section class="sections">

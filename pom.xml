@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.142.156.232:9000/</sonar.host.url>
+		<sonar.host.url>http://3.133.146.165:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Sonarqube@1908</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Chase-Release</name>
-	      <url>http://3.137.213.66:8081/repository/Chase-Release/</url>
+	      <name>Patio-Release</name>
+	      <url>http://3.144.222.218:8081/repository/Patio-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Chase-Snapshot</name>
-	      <url>http://3.137.213.66:8081/repository/Chase-Snapshot/</url>
+	      <name>Patio-Snapshot</name>
+	      <url>http://3.144.222.218:8081/repository/Patio-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
